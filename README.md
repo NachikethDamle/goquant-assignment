@@ -69,7 +69,7 @@ The frontend will be live at: [http://localhost:5173](http://localhost:5173)
 ## 📈 How to Use the Application
 
 1. **Signals Section**:  
-   Add technical indicators (e.g., `EMA`, `RSI`, `MACD`) with respective parameters.
+   Add technical indicators (e.g., `EMA`, `RSI`) with respective parameters.
 
 2. **Entry Conditions**:  
    Logical conditions for when a trade should be entered.
@@ -90,8 +90,6 @@ This section helps reviewers understand how to configure strategies correctly.
 |------|--------|-------------|
 | EMA | `EMA_20` | Exponential Moving Average with period 20 |
 | RSI | `RSI_14` | Relative Strength Index with period 14 |
-
-> **Note:** The exact string format matters. Ensure proper underscore-separated values for MACD.
 
 ### ✅ Operators
 
