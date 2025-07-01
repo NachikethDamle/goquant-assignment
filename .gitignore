@@ -1,0 +1,5 @@
+# .gitignore
+goquant_frontend/node_modules/
+goquant_backend/__pycache__/
+*.env
+.vscode/
